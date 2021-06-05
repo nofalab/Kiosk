@@ -1,5 +1,5 @@
 
-//Nofal Abdallah Jamil(991631883)
+//Nofal Abdallah(991631883)
 //Assignment1: Kiosk program to perform calculations and show how much to 
 //collect from custumers.
 //Date of submission: May 25, 2021

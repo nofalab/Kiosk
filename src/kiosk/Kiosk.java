@@ -188,6 +188,7 @@ public class Kiosk {
                 System.out.print("Qty can not be letters \n");
     }while (!strQty.matches("-?\\d+") || qty <=0 );
 
+        System.out.println("Hello");
     }
 }
 
